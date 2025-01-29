@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 const proxyListURL = 'https://cf.cepu.us.kg/update_proxyip.txt';
-const namaWeb = 'SIMPLE AND FAST PROXY'
-const telegramku = 'https://t.me/seaker877'
+const namaWeb = 'TOpNeTze'
+const telegramku = 'https://t.me/Hub7s'
 const wildcards = [
   'ava.game.naver.com',
   'business.blibli.com',
@@ -211,7 +211,7 @@ export default {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>SIMPLE AND FAST PROXY - Your Ultimate VPN Solution</title>
+  <title>TOpNetze - Your Ultimate VPN Solution</title>
   <style>
     /* Reset dan Gaya Dasar */
     * {
@@ -350,7 +350,7 @@ export default {
 <body>
   <!-- Header -->
   <header>
-    <h1>SIMPLE AND FAST PROXY</h1>
+    <h1>TOpNeTze Gear</h1>
     <p>Your Ultimate VPN Solution for Secure and Fast Internet</p>
   </header>
 
@@ -381,7 +381,7 @@ export default {
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 SIMPLE AND FAST PROXY | <a href="/">Privacy Policy</a> | <a href="/">Terms of Service</a></p>
+    <p>&copy; 2025 TOpNeTze Gear | <a href="/">Privacy Policy</a> | <a href="/">Terms of Service</a></p>
   </footer>
 </body>
 </html>
